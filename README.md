@@ -14,8 +14,7 @@
 
 ## 相关地址
 
-- GitHub 地址：[https://github.com/weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog)
-- Gitee 地址：[https://gitee.com/AllenJiang/WeBlog](https://gitee.com/AllenJiang/WeBlog)
+- GitHub 地址：[https://github.com/Liujiuling690/WeBlog](https://github.com/Liujiuling690/WeBlog)
 - 演示地址：http://116.62.199.48/
   - 游客账号：test
   - 游客密码：test
